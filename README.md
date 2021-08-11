@@ -1,1 +1,1 @@
-# RNT
+# rnt-training
